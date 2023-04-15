@@ -7,7 +7,7 @@ This repository contains the source code of a simple implementation of ransomwar
 
 <h2> Disclaimer </h2>
 
-The use of ransomware is illegal and unethical, and its victims can suffer significant financial and emotional harm. This repository is not intended to promote or encourage the use of ransomware, and the source code contained herein should not be used for any malicious activities.
+The use of ransomware is illegal and unethical, and its victims can suffer significant financial and emotional harm. This repository is not intended to promote or encourage the use of ransomware, and the source code contained here should not be used for any malicious activities.
 
 <h2> Usage </h2>
 
